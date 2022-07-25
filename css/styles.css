@@ -1,0 +1,17 @@
+.bg-ashes {
+  background-color: gainsboro;
+}
+
+.bg-slider {
+  background-color: #feeae9;
+}
+
+.btn-buynow {
+  background-color: rgb(93, 37, 107);
+  color: whitesmoke;
+  padding: 10px;
+  border-radius: 15px;
+}
+.bg-subscribe {
+  background-color: #eed7a1;
+}
